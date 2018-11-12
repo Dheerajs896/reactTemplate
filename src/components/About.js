@@ -29,22 +29,22 @@ const About = () => {
             <div className="buttom-social-grids">
               <ul>
                 <li>
-                  <a href="#">
+                  <a href="">
                     <span className="fa fa-facebook" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="">
                     <span className="fa fa-twitter" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="">
                     <span className="fa fa-rss" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="">
                     <span className="fa fa-vk" />
                   </a>
                 </li>
